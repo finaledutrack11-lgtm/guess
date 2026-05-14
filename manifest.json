@@ -1,0 +1,10 @@
+{
+  "name": "Guess The Number",
+  "short_name": "Guess",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#87CEEB",
+  "description": "A simple guess the number game.",
+  "scope": "."
+}
